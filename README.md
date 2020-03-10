@@ -6,6 +6,7 @@
 -   [최댓값 구하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/최댓값_구하기.sql)
 -   [역순 정렬하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/역순_정렬하기.sql)
 -   [아픈 동물 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/아픈_동물_찾기.sql)
+-   [어린 동물 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/어린_동물_찾기.sql)
 
 ### LEVEL 2
 
