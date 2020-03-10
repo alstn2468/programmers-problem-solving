@@ -4,6 +4,7 @@
 
 -   [모든 레코드 조회하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/모든_레코드_조회하기.sql)
 -   [최댓값 구하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/최댓값_구하기.sql)
+-   [역순 정렬하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/역순_정렬하기.sql)
 
 ### LEVEL 2
 
