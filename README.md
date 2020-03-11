@@ -9,6 +9,7 @@
 -   [어린 동물 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/어린_동물_찾기.sql)
 -   [동물의 아이디와 이름](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/동물의_아이디와_이름.sql)
 -   [최솟값 구하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/최솟값_구하기.sql)
+-   [여러 기준으로 정렬하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/여러_기준으로_정렬하기.sql)
 
 ### LEVEL 2
 
