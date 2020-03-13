@@ -3,5 +3,5 @@
 -- 분류 : SELECT
 -- 단계 : LEVEL 1
 SELECT
-  *
+    *
 FROM ANIMAL_INS;

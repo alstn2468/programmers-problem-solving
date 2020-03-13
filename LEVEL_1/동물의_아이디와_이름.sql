@@ -3,6 +3,6 @@
 -- 분류 : SELECT
 -- 단계 : LEVEL 1
 SELECT
-  ANIMAL_ID,
-  NAME
+    ANIMAL_ID,
+    NAME
 FROM ANIMAL_INS;

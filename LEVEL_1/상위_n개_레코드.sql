@@ -3,9 +3,9 @@
 -- 분류 : SELECT
 -- 단계 : LEVEL 1
 SELECT
-  NAME
+    NAME
 FROM ANIMAL_INS
 ORDER BY
-  DATETIME
+    DATETIME
 LIMIT
-  1;
+    1;
