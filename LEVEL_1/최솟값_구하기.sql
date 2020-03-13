@@ -2,6 +2,6 @@
 -- 최솟값 구하기
 -- 분류 : SUM, MAX, MIN
 -- 단계 : LEVEL 1
-
-SELECT MIN(DATETIME)
+SELECT
+  MIN(DATETIME)
 FROM ANIMAL_INS;

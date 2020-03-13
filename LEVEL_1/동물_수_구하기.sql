@@ -2,6 +2,6 @@
 -- 동물 수 구하기
 -- 분류 : SUM, MAX, MIN
 -- 단계 : LEVEL 1
-
-SELECT COUNT(*)
+SELECT
+  COUNT(*)
 FROM ANIMAL_INS;

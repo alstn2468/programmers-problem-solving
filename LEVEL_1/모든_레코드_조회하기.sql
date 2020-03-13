@@ -2,6 +2,6 @@
 -- 모든 레코드 조회하기
 -- 분류 : SELECT
 -- 단계 : LEVEL 1
-
-SELECT *
+SELECT
+  *
 FROM ANIMAL_INS;
