@@ -14,6 +14,7 @@
 -   [동물 수 구하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/동물_수_구하기.sql)
 -   [상위 n개 레코드](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/상위_n개_레코드.sql)
 -   [이름이 있는 동물의 아이디](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/이름이_있는_동물의_아이디.sql)
+-   [중복 제거하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/중복_제거하기.sql)
 
 ### LEVEL 2
 
