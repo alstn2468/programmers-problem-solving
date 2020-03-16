@@ -18,6 +18,7 @@
 -   [고양이와 개는 몇 마리 있을까](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/고양이와_개는_몇_마리_있을까.sql)
 -   [동명 동물 수 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/동명_동물_수_찾기.sql)
 -   [NULL 처리하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/NULL_처리하기.sql)
+-   [입양 시각 구하기(1)](<https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_1/입양_시각_구하기(1).sql>)
 
 ### LEVEL 2
 
