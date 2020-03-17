@@ -30,6 +30,7 @@
 ### LEVEL 3
 
 -   [없어진 기록 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_3/없어진_기록_찾기.sql)
+-   [있었는데요 없었습니다](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_3/있었는데요_없었습니다.sql)
 
 ### LEVEL 4
 
