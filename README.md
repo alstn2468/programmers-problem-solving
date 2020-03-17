@@ -25,6 +25,7 @@
 -   [루시와 엘라 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_2/루시와_엘라_찾기.sql)
 -   [이름에 el이 들어가는 동물 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_2/이름에_el이_들어가는_동물_찾기.sql)
 -   [중성화 여부 파악하기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_2/중성화_여부_파악하기.sql)
+-   [DATETIME에서 DATE로 형 변환](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_2/DATETIME에서_DATE로_형_변환.sql)
 
 ### LEVEL 3
 
