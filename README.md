@@ -29,7 +29,7 @@
 
 ### LEVEL 3
 
--   Nothing's solved yet.
+-   [없어진 기록 찾기](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_3/없어진_기록_찾기.sql)
 
 ### LEVEL 4
 
