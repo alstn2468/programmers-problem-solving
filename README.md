@@ -37,3 +37,4 @@
 ### LEVEL 4
 
 -   [우유와 요거트가 담긴 장바구니](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_4/우유와_요거트가_담긴_장바구니.sql)
+-   [보호소에서 중성화한 동물](https://github.com/alstn2468/Programmers_SQL_Solving/blob/master/LEVEL_4/보호소에서_중성화한_동물.sql)
