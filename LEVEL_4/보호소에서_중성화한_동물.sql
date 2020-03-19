@@ -13,4 +13,4 @@ WHERE
     AND (
         B.SEX_UPON_OUTCOME LIKE "%Spayed%"
         OR B.SEX_UPON_OUTCOME LIKE "%Neutered%"
-    )
+    );
