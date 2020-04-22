@@ -9,7 +9,7 @@
 #### LEVEL 2
 
 -   [H-Index](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/H-Index.py)
--   [가장 큰 수](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/가장 큰 수.py)
+-   [가장 큰 수](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/가장_큰_수.py)
 
 ### SQL
 
