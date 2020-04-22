@@ -36,8 +36,6 @@ test_cases = [
     [[5, 5, 5, 5, 5], 5],
     [[1, 2, 4, 5, 6], 3],
     [[22, 24], 2],
-
-
 ]
 
 for test_case in test_cases:
