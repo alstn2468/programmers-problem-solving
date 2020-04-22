@@ -41,15 +41,15 @@ test_cases = [
     {
         "array": [1, 5, 2, 6, 3, 7, 4],
         "commands": [[2, 5, 3], [4, 4, 1], [1, 7, 3]],
-        "return": [5, 6, 3],
+        "expected_value": [5, 6, 3],
     }
 ]
 
 for test_case in test_cases:
-    array, commands, result = (
+    array, commands, expected_value = (
         test_case["array"],
         test_case["commands"],
-        test_case["return"],
+        test_case["expected_value"],
     )
 
-    print(result == solution(array, commands))
+    print(expected_value == solution(array, commands))
