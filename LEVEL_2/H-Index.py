@@ -25,20 +25,19 @@
 
 def solution(citations):
     citations.sort(reverse=True)
-    answer = max(map(min, [[idx + 1, citations[idx]]
-                           for idx in range(len(citations))]))
+    answer = max(map(min, [[idx + 1, citations[idx]] for idx in range(len(citations))]))
 
     return answer
 
 
 test_cases = [
-    [[3, 0, 6, 1, 5], 3],
-    [[5, 5, 5, 5, 5], 5],
-    [[1, 2, 4, 5, 6], 3],
-    [[22, 24], 2],
+    {"citations": [3, 0, 6, 1, 5], "expected_value": 3},
+    {"citations": [5, 5, 5, 5, 5], "expected_value": 5},
+    {"citations": [1, 2, 4, 5, 6], "expected_value": 3},
+    {"citations": [22, 24], "expected_value": 2},
 ]
 
 for test_case in test_cases:
-    citations, expected_value = test_case[0], test_case[1]
+    citations, expected_value = test_case["citations"], test_case["expected_value"]
 
     print(expected_value == solution(citations))
