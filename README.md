@@ -5,6 +5,7 @@
 #### LEVEL 1
 
 -   [K번째수](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/K번째수.py)
+-   [완주하지 못한 선수](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/완주하지_못한_선수.py)
 
 #### LEVEL 2
 
