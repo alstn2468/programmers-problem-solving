@@ -43,19 +43,12 @@
 # 3. smoky_makeup
 
 from functools import reduce
+from collections import Counter
 
 
 def solution(clothes):
-    dic = {}
-
-    for cloth, category in clothes:
-        if category not in dic:
-            dic[category] = [cloth]
-
-        else:
-            dic[category].append(cloth)
-
-    answer = reduce(lambda x, y: x * y, map(lambda x: len(x) + 1, dic.values()))
+    dic = Counter([clothe[1] for clothe in clothes])
+    answer = reduce(lambda x, y: x * y, map(lambda x: x + 1, dic.values()))
 
     return answer - 1
 
