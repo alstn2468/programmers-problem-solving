@@ -29,14 +29,44 @@
 # 세 번째 기능은 55%가 완료되어 있고 하루에 5%씩 작업이 가능하므로 9일간 작업 후 배포가 가능합니다.
 # 따라서 7일째에 2개의 기능, 9일째에 1개의 기능이 배포됩니다.
 
+from math import ceil
+
 
 def solution(progresses, speeds):
-    answer = []
-    return answer
+    deploy = {}
+    prev_day = 0
+
+    for i in range(len(progresses)):
+        progress, speed = progresses[i], speeds[i]
+        day = ceil((100 - progress) / speed)
+
+        if day > prev_day:
+            deploy[day] = 1
+            prev_day = day
+
+        else:
+            deploy[prev_day] += 1
+
+    return list(deploy.values())
 
 
 test_cases = [
-    {"progresses": 2, "speeds": 10, "expected_value": [2, 1],},
+    {"progresses": [93, 30, 55], "speeds": [1, 30, 5], "expected_value": [2, 1]},
+    {
+        "progresses": [0, 0, 0, 0],
+        "speeds": [100, 50, 34, 25],
+        "expected_value": [1, 1, 1, 1],
+    },
+    {
+        "progresses": [40, 93, 30, 55, 60, 65],
+        "speeds": [60, 1, 30, 5, 10, 7],
+        "expected_value": [1, 2, 3],
+    },
+    {
+        "progresses": [93, 30, 55, 60, 40, 65],
+        "speeds": [1, 30, 5, 10, 60, 7],
+        "expected_value": [2, 4],
+    },
 ]
 
 for test_case in test_cases:
