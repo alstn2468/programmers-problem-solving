@@ -8,6 +8,7 @@
 -   [완주하지 못한 선수](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/완주하지_못한_선수.py)
 -   [체육복](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/체육복.py)
 -   [크레인 인형뽑기 게임](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/크레인_인형뽑기_게임.js)
+-   [모의고사](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/모의고사.js)
 
 #### LEVEL 2
 
