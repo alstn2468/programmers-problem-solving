@@ -9,6 +9,7 @@
 -   [체육복](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/체육복.py)
 -   [크레인 인형뽑기 게임](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/크레인_인형뽑기_게임.js)
 -   [모의고사](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/모의고사.js)
+-   [2016년](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/2016년.js)
 
 #### LEVEL 2
 
