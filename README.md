@@ -10,6 +10,7 @@
 -   [크레인 인형뽑기 게임](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/크레인_인형뽑기_게임.js)
 -   [모의고사](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/모의고사.js)
 -   [2016년](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/2016년.js)
+-   [가운데 글자 가져오기](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/가운데_글자_가져오기.js)
 
 #### LEVEL 2
 
