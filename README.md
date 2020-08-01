@@ -12,6 +12,7 @@
 -   [2016년](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/2016년.js)
 -   [가운데 글자 가져오기](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/가운데_글자_가져오기.js)
 -   [예산](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/예산.js)
+-   [실패율](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_1/실패율.js)
 
 #### LEVEL 2
 
