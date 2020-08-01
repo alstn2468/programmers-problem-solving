@@ -27,6 +27,7 @@
 -   [쇠막대기](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/쇠막대기.py)
 -   [주식가격](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/주식가격.py)
 -   [큰 수 만들기](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/큰_수_만들기.py)
+-   [스킬트리](https://github.com/alstn2468/Programmers_Problem_Solving/blob/master/LEVEL_2/스킬트리.js)
 
 #### LEVEL 3
 
